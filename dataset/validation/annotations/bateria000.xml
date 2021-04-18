@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bateria</folder>
+	<filename>bateria000.png</filename>
+	<path>/home/bopke/Pulpit/bateria/bateria000.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bateria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>126</ymin>
+			<xmax>390</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
